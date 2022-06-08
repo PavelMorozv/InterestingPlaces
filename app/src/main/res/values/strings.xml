@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Интересные места</string>
+    <string name="btn_delete">Удалить</string>
+    <string name="btn_edit">Изменить</string>
+    <string name="btn_show_on_map">Показать на карте</string>
+    <string name="tv_title">Заголовок</string>
+    <string name="tv_text">Описание</string>
+    <string name="btn_new">+</string>
+    <string name="tv_AppBarTitle">Мои записи</string>
+    <string name="tv_createActivityTitle">Создание записи</string>
+    <string name="tv_editActivityTitle">Изменение запси</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_setPoint">Выбрать на карте</string>
+    <string name="tv_weather">tv_Weather</string>
+</resources>
